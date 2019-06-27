@@ -1,4 +1,3 @@
-github-download
 ===============
 Distância entre dois pontos em C++
 ----------
